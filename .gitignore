@@ -1,0 +1,3 @@
+/.vscode/
+/api/migrations
+db.sqlite3
